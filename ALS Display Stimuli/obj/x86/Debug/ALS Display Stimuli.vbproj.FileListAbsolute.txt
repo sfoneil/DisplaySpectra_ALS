@@ -1,0 +1,105 @@
+D:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.exe
+D:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.pdb
+D:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.xml
+D:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Form1.resources
+D:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Resources.resources
+D:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.exe
+D:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.xml
+D:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.pdb
+I:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.exe
+I:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.xml
+I:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.pdb
+I:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.exe
+I:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.pdb
+I:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.xml
+I:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Form1.resources
+I:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Resources.resources
+I:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sean\Desktop\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.exe
+C:\Users\Sean\Desktop\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.xml
+C:\Users\Sean\Desktop\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.pdb
+C:\Users\Sean\Desktop\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.exe
+C:\Users\Sean\Desktop\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.pdb
+C:\Users\Sean\Desktop\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.xml
+C:\Users\Sean\Desktop\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Form1.resources
+C:\Users\Sean\Desktop\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Resources.resources
+C:\Users\Sean\Desktop\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sean\Desktop\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.exe
+F:\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.xml
+F:\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.pdb
+F:\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.exe
+F:\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.pdb
+F:\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.xml
+F:\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Form1.resources
+F:\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Resources.resources
+C:\Documents and Settings\Kyle\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.exe
+C:\Documents and Settings\Kyle\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.xml
+C:\Documents and Settings\Kyle\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.pdb
+C:\Documents and Settings\Kyle\Desktop\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.exe
+C:\Documents and Settings\Kyle\Desktop\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.pdb
+C:\Documents and Settings\Kyle\Desktop\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.xml
+C:\Documents and Settings\Kyle\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kyle\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Form1.resources
+C:\Documents and Settings\Kyle\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Resources.resources
+C:\Documents and Settings\Kyle\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Kyle\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.exe
+E:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.xml
+E:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.pdb
+E:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.exe
+E:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.pdb
+E:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.xml
+E:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Form1.resources
+E:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Resources.resources
+E:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.vbprojResolveAssemblyReference.cache
+F:\Backup\Experiments\OL490\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.vbproj.GenerateResource.Cache
+C:\Users\Biosemi\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.exe
+C:\Users\Biosemi\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.xml
+C:\Users\Biosemi\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.pdb
+C:\Users\Biosemi\Desktop\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.exe
+C:\Users\Biosemi\Desktop\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.pdb
+C:\Users\Biosemi\Desktop\ALS Display Stimuli\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.xml
+C:\Users\Biosemi\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.vbprojResolveAssemblyReference.cache
+C:\Users\Biosemi\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Form1.resources
+C:\Users\Biosemi\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Resources.resources
+C:\Users\Biosemi\Desktop\ALS Display Stimuli\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.vbproj.GenerateResource.Cache
+D:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.exe
+D:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.xml
+D:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.pdb
+D:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.exe
+D:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.pdb
+D:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.xml
+D:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.vbprojResolveAssemblyReference.cache
+D:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Form1.resources
+D:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Resources.resources
+D:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.vbproj.GenerateResource.Cache
+C:\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.exe
+C:\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.xml
+C:\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.pdb
+C:\OL490\ALS Display Stimuli 2\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.exe
+C:\OL490\ALS Display Stimuli 2\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.pdb
+C:\OL490\ALS Display Stimuli 2\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.xml
+C:\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.vbprojResolveAssemblyReference.cache
+C:\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Form1.resources
+C:\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Resources.resources
+C:\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.vbproj.GenerateResource.Cache
+E:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.exe
+E:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.xml
+E:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.pdb
+E:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.exe
+E:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.pdb
+E:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\bin\Debug\ALS Display Stimuli.xml
+E:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.vbprojResolveAssemblyReference.cache
+E:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Form1.resources
+E:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS_Display_Stimuli.Resources.resources
+E:\SO Backup\Experiments\OL490\ALS Display Stimuli 2\ALS Display Stimuli\obj\x86\Debug\ALS Display Stimuli.vbproj.GenerateResource.Cache
